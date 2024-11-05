@@ -1,0 +1,27 @@
+.gr_js_metadata <- function() {
+deps_metadata <- list(`gr` = structure(list(name = "gr",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-Gr.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "gr",
+all_files = FALSE, async = TRUE), class = "html_dependency"),
+`gr` = structure(list(name = "gr",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'async-Gr.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "gr",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"),
+`gr` = structure(list(name = "gr",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'gr.min.js',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "gr",
+all_files = FALSE), class = "html_dependency"),
+`gr` = structure(list(name = "gr",
+version = "0.0.1", src = list(href = NULL,
+file = "deps"), meta = NULL,
+script = 'gr.min.js.map',
+stylesheet = NULL, head = NULL, attachment = NULL, package = "gr",
+all_files = FALSE, dynamic = TRUE), class = "html_dependency"))
+return(deps_metadata)
+}

@@ -1,0 +1,11 @@
+include gr/gr.min.js
+include gr/gr.min.js.map
+include gr/async-*.js
+include gr/async-*.js.map
+include gr/*-shared.js
+include gr/*-shared.js.map
+include gr/metadata.json
+include gr/package-info.json
+include README.md
+include LICENSE
+include package.json
